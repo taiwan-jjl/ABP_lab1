@@ -1,0 +1,13 @@
+H/W path           Device          Class          Description
+=============================================================
+/0/1                               memory         1MiB BIOS
+/0/400/701                         memory         192KiB L1 cache
+/0/400/702                         memory         7680KiB L2 cache
+/0/400/703                         memory         18MiB L3 cache
+/0/700                             memory         288KiB L1 cache
+/0/1000                            memory         128GiB System Memory
+/0/1000/0                          memory         32GiB SODIMM DDR4 Synchronous 2933 MHz (0.3 ns)
+/0/1000/1                          memory         32GiB SODIMM DDR4 Synchronous 2933 MHz (0.3 ns)
+/0/1000/2                          memory         32GiB SODIMM DDR4 Synchronous 2933 MHz (0.3 ns)
+/0/1000/3                          memory         32GiB SODIMM DDR4 Synchronous 2933 MHz (0.3 ns)
+/0/100/14.2                        memory         RAM memory
