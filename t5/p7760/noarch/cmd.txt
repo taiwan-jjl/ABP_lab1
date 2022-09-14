@@ -1,0 +1,3 @@
+./stream_triad_cuda -min 8 -max 1e8 -align 0 > ./t5_p7760_align0.txt; ./stream_triad_cuda -min 8 -max 1e8 -align 1 > ./t5_p7760_align1.txt;
+
+nvcc -O2 ./stream_triad_cuda.cu -o ./stream_triad_cuda
