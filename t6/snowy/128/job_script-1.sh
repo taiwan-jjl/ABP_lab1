@@ -14,5 +14,5 @@ module use /sw/EasyBuild/snowy/modules/all/
 module load intelcuda
 
 echo "./stream_triad_cuda -min 8 -max 1e8 -align 1"
-nvcc -O2 ./stream_triad_cuda.cu -o ./stream_triad_cuda
+nvcc -O2 --gpu-architecture=compute_75 --gpu-code=sm_75 ./stream_triad_cuda.cu -o ./stream_triad_cuda
 ./stream_triad_cuda -min 8 -max 1e8 -align 1
