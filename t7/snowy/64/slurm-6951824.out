@@ -1,0 +1,1 @@
+./stream_triad_cuda -min 8 -max 1e8 -align 1
