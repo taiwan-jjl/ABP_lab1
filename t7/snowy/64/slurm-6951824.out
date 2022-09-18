@@ -1,1 +1,2 @@
 ./stream_triad_cuda -min 8 -max 1e8 -align 1
+STREAM triad of size        8 : min/avg/max: 2.98043e-06  3.0031e-06  3.0278e-06 seconds or  2.68417 MUPD/s or 0.0644202 GB/s
