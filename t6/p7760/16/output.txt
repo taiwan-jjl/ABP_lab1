@@ -1,0 +1,1 @@
+STREAM triad of size        8 : min/avg/max: 1.55172e-06 1.58237e-06 1.69547e-06 seconds or  5.15556 MUPD/s or 0.0618668 GB/s
