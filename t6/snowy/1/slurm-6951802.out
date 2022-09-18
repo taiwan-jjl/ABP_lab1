@@ -141,3 +141,6 @@ STREAM triad of size 28088032 : min/avg/max:   0.0305188   0.0306638   0.0320673
 STREAM triad of size 30896840 : min/avg/max:   0.0338136   0.0340016   0.0354985 seconds or  913.741 MUPD/s or  10.9649 GB/s
 STREAM triad of size 33986528 : min/avg/max:   0.0373015   0.0375494   0.0400236 seconds or  911.131 MUPD/s or  10.9336 GB/s
 STREAM triad of size 37385184 : min/avg/max:   0.0427873   0.0430058   0.0458552 seconds or  873.745 MUPD/s or  10.4849 GB/s
+STREAM triad of size 41123704 : min/avg/max:   0.0450464   0.0452904   0.0483242 seconds or  912.918 MUPD/s or   10.955 GB/s
+STREAM triad of size 45236080 : min/avg/max:   0.0492478    0.049539   0.0528325 seconds or   918.54 MUPD/s or  11.0225 GB/s
+STREAM triad of size 49759696 : min/avg/max:   0.0552508   0.0556146   0.0591058 seconds or  900.615 MUPD/s or  10.8074 GB/s
